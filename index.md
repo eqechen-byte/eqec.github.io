@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Welcome to Em's Blog.
+Here I would write something about what I learn.
+Biotechniques and codings apply in biomedical engineering.
